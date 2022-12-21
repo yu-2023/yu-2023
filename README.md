@@ -1,7 +1,7 @@
 
-Comparative analysis of programming in Java, Kotlin and Clojure
-How to Program Java, Kotlin, and Clojure Simultaneously
-   Integration of Java, Kotlin and Clojure in one software product
+- Comparative analysis of programming in Java, Kotlin and Clojure
+- How to Program Java, Kotlin, and Clojure Simultaneously
+- Integration of Java, Kotlin and Clojure in one software product
 
 💞️ Java, Kotlin un Clojure programmēšanas salīdzinošā analīze
    Kā programmēt Java, Kotlin un Clojure vienlaicīgi
