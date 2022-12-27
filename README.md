@@ -1,4 +1,6 @@
 
+- 👀 Hi, I’m Yuri UTKIN , e-mail: yu-2023@inbox.lv
+- 
 - 💞️ EN 💞️
 - Comparative analysis of programming in Java, Kotlin and Clojure.
 - How to Program Java, Kotlin, and Clojure Simultaneously.
@@ -13,10 +15,6 @@
 - Java, Kotlin un Clojure programmēšanas salīdzinošā analīze.
 - Kā programmēt Java, Kotlin un Clojure vienlaicīgi.
 - Java, Kotlin un Clojure integrācija vienā programmatūras produktā.
-
-
-
-- 👀 Hi, I’m Yuri UTKIN   📫 yu-2023@inbox.lv
 
 <!---
 yu-2023/yu-2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
