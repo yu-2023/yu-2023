@@ -1,7 +1,8 @@
  
 <strong>
  
-- 💞️💞️ EN
+- <a href="https://yu-2023.github.io/inf/info_EN.html" target="_blank">EN - How to Program Java, Kotlin, and Clojure Simultaneously.</a>
+- <a href="https://yu-2023.github.io/inf/info_EN.html" target="_blank">💞️💞️ EN</a>
 - How to Program Java, Kotlin, and Clojure Simultaneously.
 - Integration of Java, Kotlin and Clojure in one software product.
 - Comparative analysis of programming in Java, Kotlin and Clojure.
