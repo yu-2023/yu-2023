@@ -2,34 +2,34 @@
 <strong>
  
 - 💞️💞️ EN
-- Comparative analysis of programming in Java, Kotlin and Clojure.
 - How to Program Java, Kotlin, and Clojure Simultaneously.
 - Integration of Java, Kotlin and Clojure in one software product.
+- Comparative analysis of programming in Java, Kotlin and Clojure.
 
 - 👋👋 RU
-- Сравнительный анализ программирование на Java, Kotlin и Clojure.
 - Как программировать одновременно на Java, Kotlin и Clojure.
 - Интеграция Java, Kotlin и Clojure в одном программном продукте.
+- Сравнительный анализ программирование на Java, Kotlin и Clojure.
 
 - 🌱🌱 LV
-- Java, Kotlin un Clojure programmēšanas salīdzinošā analīze.
 - Kā programmēt Java, Kotlin un Clojure vienlaicīgi.
 - Java, Kotlin un Clojure integrācija vienā programmatūras produktā.
+- Java, Kotlin un Clojure programmēšanas salīdzinošā analīze.
  
- - 💞️💞️ DE
-- Vergleichende Analyse der Programmierung in Java, Kotlin und Clojure.
+- 💞️💞️ DE
 - So programmieren Sie Java, Kotlin und Clojure gleichzeitig.
 - Integration von Java, Kotlin und Clojure in einem Softwareprodukt.
+- Vergleichende Analyse der Programmierung in Java, Kotlin und Clojure.
 
 - 👋👋 FR
-- Analyse comparative de la programmation en Java, Kotlin et Clojure.
 - Comment programmer Java, Kotlin et Clojure simultanément.
 - Intégration de Java, Kotlin et Clojure dans un seul produit logiciel.
+- Analyse comparative de la programmation en Java, Kotlin et Clojure.
 
 - 🌱🌱 ES
-- Análisis comparativo de programación en Java, Kotlin y Clojure.
 - Cómo programar Java, Kotlin y Clojure simultáneamente.
 - Integración de Java, Kotlin y Clojure en un solo producto de software.
+- Análisis comparativo de programación en Java, Kotlin y Clojure.
 
 -
 - 👀👀 Yuri UTKIN , e-mail: yu-2023@inbox.lv
